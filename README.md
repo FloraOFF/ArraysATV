@@ -1,1 +1,1 @@
-Repositório para realização de atividade de manipulação de Arrays em JavaScript
+Repositório para realização de atividade sobre manipulação de Arrays em JavaScript
